@@ -1,0 +1,13 @@
+Trading Strategy: SPX Options with AI & Martingale
+Buying Power: $14K+
+Option Price: ≤ $10
+Expiration: Next Day
+Entry Time: 12:57 PM (Before Market Close)
+Exit Time: Before 7:30 AM (Market Open)
+
+A. Worst-Case Scenario (Sideways Market)
+Day 1: Buy 1 CALL ($1,000) + 1 PUT ($1,000) → If loss reaches 50% → -$1,000
+Day 2: Double to 2 CALLs + 2 PUTs ($4,000 total) → If loss reaches 50% → -$2,000
+Day 3: Double again to 4 CALLs + 4 PUTs ($8,000 total) → If loss reaches 50% → -$4,000
+B. Best-Case Scenario (Strong Market Move)
+If the market trends strongly, profit potential is at least 100%.
