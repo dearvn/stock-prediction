@@ -56,7 +56,7 @@ Recommend Best OTM call option strike price from current price should I enter
 Recommend Best OTM put option strike price from current price should I enter
 ```
 
-![Alt text](https://github.com/dearvn/stock-prediction/raw/main/tdv.png?raw=true "Chart TDV")
+![Alt text](https://github.com/dearvn/stock-prediction/raw/main/chart-tdv.png?raw=true "Chart TDV")
 
 ```bash
 Evaluate Future Marketing flow for next day trading.  
