@@ -45,6 +45,24 @@ This strategy leverages **AI predictions**, the **Martingale method**, and **Iro
 - Directional trades incur losses up to $4,000.
 - Iron Condor limits further risk and provides hedge.
 
+### Prompt
+
+![Alt text](https://github.com/dearvn/stock-prediction/raw/main/tos.png?raw=true "Price TOS")
+
+```bash
+Evaluate options flow for next day trading.  
+Predict marketing Total Range movement highest and low and Is this movement consider strong, mid, or weak?
+Recommend Best OTM call option strike price from current price should I enter
+Recommend Best OTM put option strike price from current price should I enter
+```
+
+![Alt text](https://github.com/dearvn/stock-prediction/raw/main/tdv.png?raw=true "Chart TDV")
+
+```bash
+Evaluate Future Marketing flow for next day trading.  
+Predict marketing Total Range movement highest and low and Is this movement consider strong, mid, or weak?
+```
+
 ## Conclusion
 This strategy combines AI-powered predictions, Martingale scaling, and Iron Condor hedging to optimize SPX options trading. It balances risk and reward while taking advantage of market trends and volatility conditions.
 
