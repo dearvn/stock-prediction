@@ -1,3 +1,23 @@
+# History
+### 04/01/25
+> **Market Analysis & Recommendations**  
+>  
+> **Expected Market Range for Next Trading Day:**  
+> - Highest Expected Price: ~6,045  
+> - Lowest Expected Price: ~5,950  
+> - Total Range Movement: 50.43 (high) / 44.57 (low)  
+>  
+> **Market Strength:**  
+> - Movement Percentage: 0.84% (high) / 0.74% (low)  
+> - Conclusion: Market movement is expected to be weak.  
+>  
+> **Best Option Strike Prices:**  
+> - Recommended OTM Call Option Strike: 6,020  
+> - Recommended OTM Put Option Strike: 5,970  
+
+
+
+
 # SPX Options Trading Strategy
 
 ## Overview
