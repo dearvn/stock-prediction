@@ -1,4 +1,19 @@
 # History
+
+### 07/02/25
+> **Primary Bias: Bullish (favoring Calls)**
+> Best Call Strike: 6,100
+> Best Put Strike (Hedge): 6,050
+> **Trading Plan:**
+> If SPX stays above 6,080, focus on calls at 6,100.
+> If SPX breaks below 6,060, hedge with puts at 6,050.
+
+### 06/02/25
+> **Final Prediction: Bullish Trend**
+> The market is showing strength, and call options have a better probability of success.
+> If SPX remains above 6,060, expect further upside to 6,075-6,100.
+> A break below 6,050 could signal a reversal, making puts a better play.
+
 ### 04/01/25
 > **Market Analysis & Recommendations**  
 >  
