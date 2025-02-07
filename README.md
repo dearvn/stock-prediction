@@ -71,7 +71,7 @@ This strategy leverages **AI predictions**, the **Martingale method**, and **Iro
 > 1.  Current SPX Price
 > 2.  Current Date Trade
 > 3.  Options Data (Volume, Open Int, Delta, ProbITM, Bid, Ask and Strike Price)  Bot call and PUT giong nhu cai hinh capture
-- **Promomt**
+- **Promt**
 > Evaluate options flow for next day trading.  
 > Predict marketing Total Range movement highest and low
 > Is this movement consider strong, mid, or weak? 
